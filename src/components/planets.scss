@@ -1,0 +1,13 @@
+.heading{
+    font-size: 22px;
+    font-weight: 600;
+}
+.App{
+    max-width: 1200px;
+    margin: 50px auto;
+    .select{
+        width: 200px;
+        display: inline-block;
+        margin: 10px
+    }
+}
